@@ -18,6 +18,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h2> languages: <h2/>
+
+<div id="languages">
+<a href="https://python.org">
+<img src="https://img.shields.io/badge/Python-yellow">
+<a/>
+<div/>
+
 <div id="badges">
+<a href="https://www.linkedin.com/in/masood-dehghani-21a95422b/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
+<a/>
+
 <div/>
