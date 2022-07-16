@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3> Languages and tools: <h3/>
+<h3>:hammer_and_wrench: Languages and tools: <h3/>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="50"/>
@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 
 <div>
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=masoodehghan&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=masoodehghan&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <div/>
