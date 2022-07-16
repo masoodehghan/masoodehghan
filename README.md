@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Django
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/masood-dehghani-21a95422b/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
-<a/>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/masood-dehghani-21a95422b/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"><a/>
 
 
 
