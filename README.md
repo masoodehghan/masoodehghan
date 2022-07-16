@@ -39,8 +39,6 @@ Here are some ideas to get you started:
   
 <div/>
 
-<div>
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=masoodehghan&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<div/>
