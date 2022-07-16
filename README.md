@@ -1,9 +1,7 @@
-<div>
 ### Hi there 👋
 - 🔭 I’m currently working on Django
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/masood-dehghani-21a95422b/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"><a/>
 - ⚡ Fun fact: I love Coding
-<div/>
 
 <!--
 **masoodehghan/masoodehghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
