@@ -22,8 +22,13 @@ Here are some ideas to get you started:
 
 <div id="languages">
 <a href="https://python.org">
-<img src="https://img.shields.io/badge/Python-yellow">
+<img src="https://img.shields.io/badge/Python-yellow?logo=python&logoColor=blue">
 <a/>
+
+<a href="https://html.com/html5/">
+<img src="https://img.shields.io/badge/HTML-orange?logo=html&logoColor=white">
+<a/>
+
 <div/>
 
 <div id="badges">
