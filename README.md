@@ -1,9 +1,9 @@
+<div>
 ### Hi there 👋
-
 - 🔭 I’m currently working on Django
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/masood-dehghani-21a95422b/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"><a/>
-- ⚡ Fun fact: I love solving problems
-
+- ⚡ Fun fact: I love Coding
+<div/>
 
 <!--
 **masoodehghan/masoodehghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> languages and tools: <h2/>
+<h3> Languages and tools: <h3/>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="50"/>
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <div/>
 
 <div>
-<h2> Database: <h2/>
+<h3> Database: <h3/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="40" height="50"/>
 
@@ -41,3 +41,8 @@ Here are some ideas to get you started:
   
 <div/>
 
+<div>
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=masoodehghan&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<div/>
