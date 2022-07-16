@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Django
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/masood-dehghani-21a95422b/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"><a/>
-
+- ⚡ Fun fact: I love solving problems
 
 
 <!--
@@ -29,7 +29,15 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="ubuntu" alt="ubuntu" width="40" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="40" height="50"/>
   <img src="https://www.django-rest-framework.org/img/logo.png" title="restframework" alt="html" width="40" height="50"/>
+<div/>
+
+<div>
+<h2> Database: <h2/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="40" height="50"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Mysql" alt="MySQL" width="40" height="50"/>
 
   
-</div>
+<div/>
 
