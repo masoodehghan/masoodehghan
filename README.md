@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=masoodehghan&theme=navy-gear)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masoodehghan&layout=compact&theme=vision-friendly-dark&exclude=laravel-discussion-forum-RESTful-API)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masoodehghan&layout=compact&theme=vision-friendly-dark&exclude_repo=laravel-discussion-forum-RESTful-API)](https://github.com/anuraghazra/github-readme-stats)
